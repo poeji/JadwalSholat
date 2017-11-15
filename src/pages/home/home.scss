@@ -1,0 +1,31 @@
+page-home {
+
+    .bgbody
+    {
+        /*background-color: green;*/
+        align-content: center;
+        background-image: url('../../assets/imgs/masjid.png');
+        background-size: 410px;
+        background-repeat: no-repeat;
+    }
+
+    .text_hari {
+        text-align: center;
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+    .text_waktu {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .text_kota {
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+}
+
+
